@@ -21,6 +21,10 @@ Key facts (all from the biography):
 - [Biography (Word)](https://gizmoses82.github.io/john-p-williamson-1922-2014/downloads/John_P_Williamson_Biography.docx): Editable version
 - [Factsheet (PDF)](https://gizmoses82.github.io/john-p-williamson-1922-2014/downloads/John_P_Williamson_Factsheet.pdf): One-page fact sheet
 - [Also archived at the Internet Archive](https://archive.org/details/john-p-williamson-1922-2014-biography): Archived copy of the biography
+- [Wikidata](https://www.wikidata.org/wiki/Q141886535): Structured data item for John Pritchard Williamson
+- [WikiTree](https://www.wikitree.com/wiki/Williamson-25198): Family tree profile
+- [FamilySearch](https://www.familysearch.org/en/tree/person/details/GZHT-2QP): Family tree person page
+- [Find a Grave](https://www.findagrave.com/memorial/224691877/john-pritchard-williamson): Memorial page
 
 ## Data
 
@@ -30,3 +34,4 @@ Key facts (all from the biography):
 
 - [Sitemap](https://gizmoses82.github.io/john-p-williamson-1922-2014/sitemap.xml)
 - [License: CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+- Source documents (copies of cited sources, Internet Archive): https://archive.org/details/john-p-williamson-1922-2014-source-documents
