@@ -1,0 +1,80 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "John Pritchard Williamson",
+  "alternateName": [
+    "John P. Williamson"
+  ],
+  "birthDate": "1922-02-22",
+  "birthPlace": {
+    "@type": "Place",
+    "name": "Cleveland, Ohio"
+  },
+  "deathDate": "2014-10-26",
+  "deathPlace": {
+    "@type": "Place",
+    "name": "Northwood, Ohio",
+    "description": "Parkcliffe Community, Northwood, near Toledo, Ohio"
+  },
+  "description": "Certified public accountant and utility executive; president and CEO (1972) and chairman and CEO (1979) of The Toledo Edison Company; chairman emeritus on retirement in 1987; civic leader in Toledo and benefactor of Kent State University.",
+  "jobTitle": [
+    "President and Chief Executive Officer (1972)",
+    "Chairman of the Board and Chief Executive Officer (1979)",
+    "Chairman Emeritus (1987)"
+  ],
+  "worksFor": {
+    "@type": "Organization",
+    "name": "The Toledo Edison Company"
+  },
+  "hasCredential": {
+    "@type": "EducationalOccupationalCredential",
+    "credentialCategory": "Certified Public Accountant"
+  },
+  "alumniOf": {
+    "@type": "CollegeOrUniversity",
+    "name": "Kent State University",
+    "sameAs": "https://www.kent.edu"
+  },
+  "spouse": {
+    "@type": "Person",
+    "name": "Helen Williamson",
+    "deathDate": "2019-08-05",
+    "sameAs": [
+      "https://www.findagrave.com/memorial/201990470/helen_m-williamson"
+    ]
+  },
+  "parent": [
+    {
+      "@type": "Person",
+      "name": "John Williamson"
+    },
+    {
+      "@type": "Person",
+      "name": "Jane (Pritchard) Williamson"
+    }
+  ],
+  "children": [
+    {
+      "@type": "Person",
+      "name": "John M. Williamson"
+    },
+    {
+      "@type": "Person",
+      "name": "James R. Williamson"
+    },
+    {
+      "@type": "Person",
+      "name": "Wayne A. Williamson"
+    }
+  ],
+  "award": [
+    "Distinguished Alumnus Award, Kent State University (1974)",
+    "Toledo Area Citizen of the Year",
+    "Kent State University medallion (1992)",
+    "Kentucky Colonel"
+  ],
+  "sameAs": [
+    "https://prabook.com/web/john_pritchard.williamson/1374888",
+    "https://www.findagrave.com/memorial/224691877/john-pritchard-williamson"
+  ]
+}

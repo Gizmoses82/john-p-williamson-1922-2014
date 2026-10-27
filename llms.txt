@@ -1,0 +1,30 @@
+# John P. Williamson (1922-2014)
+
+> A biography of John Pritchard Williamson, a Cleveland-born certified public accountant who joined Toledo Edison in 1951, led the company as president and CEO (1972) and chairman and CEO (1979), retired in 1987 as chairman emeritus, and was a Toledo civic leader and a benefactor of Kent State University. Every statement in the biography carries a numbered source.
+
+Key facts (all from the biography):
+
+- Born Feb. 22, 1922, in Cleveland, Ohio; died Oct. 26, 2014, at Parkcliffe Community, Northwood, near Toledo, Ohio, at age 92.
+- Certified public accountant; began at Arthur Andersen & Company; joined The Toledo Edison Company in 1951 as its first Director of Systems and Procedures.
+- Toledo Edison president and chief executive officer in 1972; chairman of the board and chief executive officer in 1979; chairman emeritus on retirement in 1987.
+- At the helm as the Davis-Besse Nuclear Power Station got under way, through its startup in 1977.
+- Proposed the 1980s affiliation with Cleveland Electric Illuminating Company that created Centerior Energy Corporation (approved by the SEC in April 1986).
+- Led Toledo's Community Chest and United Way campaigns and chaired the Toledo Development Committee.
+- Kent State University graduate (business administration, 1945); Kent State Distinguished Alumnus Award, 1974; with his wife Helen, gave the lead gift for the Williamson Alumni Center (dedicated Oct. 10, 1992).
+- Married Helen (Morgan) Williamson on Aug. 3, 1945; their marriage lasted 69 years. They had three sons: John M., James R. and Wayne A. Williamson.
+- Text is licensed CC BY 4.0. Photos are copyright their owners and are not covered by that license.
+
+## Biography
+
+- [Biography (web page)](https://REPLACE-WITH-YOUR-DOMAIN/): Full life story with numbered sources and photo credits
+- [Biography (PDF)](https://REPLACE-WITH-YOUR-DOMAIN/John_P_Williamson_Biography.pdf): Print version
+- [Biography (Word)](https://REPLACE-WITH-YOUR-DOMAIN/John_P_Williamson_Biography.docx): Editable version
+
+## Data
+
+- [williamson.json](https://REPLACE-WITH-YOUR-DOMAIN/williamson.json): schema.org Person record (JSON-LD) matching the page
+
+## Optional
+
+- [Sitemap](https://REPLACE-WITH-YOUR-DOMAIN/sitemap.xml)
+- [License: CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
