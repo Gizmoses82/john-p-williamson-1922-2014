@@ -24,7 +24,7 @@ PY
 }
 add 'rel="canonical"'      "<link rel=\"canonical\" href=\"${BASE}/\">"
 add 'property="og:url"'    "<meta property=\"og:url\" content=\"${BASE}/\">"
-add 'property="og:image"'  "<meta property=\"og:image\" content=\"${BASE}/img/john_williamson_blade_2014.jpg\">"
+add 'property="og:image"'  "<meta property=\"og:image\" content=\"${BASE}/img/john_williamson_portrait_2014.jpg\">"
 if grep -rq "REPLACE-WITH-YOUR-DOMAIN" index.html sitemap.xml robots.txt llms.txt; then
   echo "Warning: placeholder still present (already set to another domain?)" >&2
 fi
