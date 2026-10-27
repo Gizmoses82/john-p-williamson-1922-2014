@@ -2,6 +2,13 @@ John Pritchard Williamson (1922-2014): biography, plain-text copy
 Canonical page: https://gizmoses82.github.io/john-p-williamson-1922-2014/
 Numbers in brackets refer to the numbered Sources list at the end.
 
+Other formats of this biography:
+- PDF: https://gizmoses82.github.io/john-p-williamson-1922-2014/downloads/John_P_Williamson_Biography.pdf
+- Word (.docx): https://gizmoses82.github.io/john-p-williamson-1922-2014/downloads/John_P_Williamson_Biography.docx
+- One-page fact sheet (PDF): https://gizmoses82.github.io/john-p-williamson-1922-2014/downloads/John_P_Williamson_Factsheet.pdf
+- Fact sheet (plain text): https://gizmoses82.github.io/john-p-williamson-1922-2014/factsheet.txt
+- Structured data (JSON): https://gizmoses82.github.io/john-p-williamson-1922-2014/williamson.json
+
 # John Pritchard Williamson, 1922–2014
 A Cleveland-born accountant who rose to lead Toledo Edison, then spent a lifetime giving back to Toledo and to Kent State.
 

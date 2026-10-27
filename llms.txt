@@ -30,6 +30,7 @@ Key facts (all from the biography):
 
 - [williamson.json](https://gizmoses82.github.io/john-p-williamson-1922-2014/williamson.json): schema.org Person record (JSON-LD) matching the page
 
+- [Fact sheet (plain text)](https://gizmoses82.github.io/john-p-williamson-1922-2014/factsheet.txt): one-page summary of key facts
 - [Plain-text copy of the biography](https://gizmoses82.github.io/john-p-williamson-1922-2014/biography.txt): same text and numbered sources, no formatting
 
 ## Optional
