@@ -52,4 +52,4 @@ User-agent: Meta-ExternalAgent
 Allow: /
 
 # Placeholder domain below is swapped for the real address before going live (see README).
-Sitemap: https://REPLACE-WITH-YOUR-DOMAIN/sitemap.xml
+Sitemap: https://gizmoses82.github.io/john-p-williamson-1922-2014/sitemap.xml

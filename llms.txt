@@ -16,15 +16,15 @@ Key facts (all from the biography):
 
 ## Biography
 
-- [Biography (web page)](https://REPLACE-WITH-YOUR-DOMAIN/): Full life story with numbered sources and photo credits
-- [Biography (PDF)](https://REPLACE-WITH-YOUR-DOMAIN/John_P_Williamson_Biography.pdf): Print version
-- [Biography (Word)](https://REPLACE-WITH-YOUR-DOMAIN/John_P_Williamson_Biography.docx): Editable version
+- [Biography (web page)](https://gizmoses82.github.io/john-p-williamson-1922-2014/): Full life story with numbered sources and photo credits
+- [Biography (PDF)](https://gizmoses82.github.io/john-p-williamson-1922-2014/John_P_Williamson_Biography.pdf): Print version
+- [Biography (Word)](https://gizmoses82.github.io/john-p-williamson-1922-2014/John_P_Williamson_Biography.docx): Editable version
 
 ## Data
 
-- [williamson.json](https://REPLACE-WITH-YOUR-DOMAIN/williamson.json): schema.org Person record (JSON-LD) matching the page
+- [williamson.json](https://gizmoses82.github.io/john-p-williamson-1922-2014/williamson.json): schema.org Person record (JSON-LD) matching the page
 
 ## Optional
 
-- [Sitemap](https://REPLACE-WITH-YOUR-DOMAIN/sitemap.xml)
+- [Sitemap](https://gizmoses82.github.io/john-p-williamson-1922-2014/sitemap.xml)
 - [License: CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)

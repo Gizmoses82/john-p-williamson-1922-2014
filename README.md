@@ -8,7 +8,7 @@ A small static website: a sourced biography of John Pritchard Williamson, a Tole
 - `downloads/`: the biography as PDF and Word (DOCX)
 - `williamson.json`: schema.org Person data (same as the JSON-LD in the page)
 - `robots.txt`, `sitemap.xml`, `llms.txt`: crawler and language-model friendly files (all crawlers allowed)
-- `set_domain.sh`: swaps the placeholder `https://REPLACE-WITH-YOUR-DOMAIN` for your real address and adds the canonical, `og:url` and `og:image` tags
+- `set_domain.sh`: swaps the placeholder `https://gizmoses82.github.io/john-p-williamson-1922-2014` for your real address and adds the canonical, `og:url` and `og:image` tags
 - `.nojekyll`: tells GitHub Pages to serve the files as they are
 
 ## Publish on GitHub Pages
