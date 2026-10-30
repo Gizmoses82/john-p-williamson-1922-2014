@@ -35,6 +35,36 @@
     "name": "Kent State University",
     "sameAs": "https://www.kent.edu"
   },
+  "memberOf": [
+    {
+      "@type": "Organization",
+      "name": "Delta Sigma Pi (Beta Pi chapter, Kent State; initiated 1942; life member 1975)"
+    },
+    {
+      "@type": "Organization",
+      "name": "Beta Alpha Psi (initiated 1969)"
+    },
+    {
+      "@type": "Organization",
+      "name": "Beta Gamma Sigma (University of Toledo chapter, 1981)"
+    },
+    {
+      "@type": "Organization",
+      "name": "Delta Upsilon (Kent State chapter, 1990)"
+    },
+    {
+      "@type": "Organization",
+      "name": "Kiwanis Club of Toledo"
+    },
+    {
+      "@type": "Organization",
+      "name": "Ohio Development Advisory Council (commission 1976)"
+    },
+    {
+      "@type": "Organization",
+      "name": "Kent State University Foundation Board of Directors (1992-1997)"
+    }
+  ],
   "spouse": {
     "@type": "Person",
     "name": "Helen Williamson",
@@ -71,11 +101,20 @@
     "Distinguished Alumnus Award, Kent State University (1974)",
     "Toledo Area Citizen of the Year",
     "Kent State University medallion (1992)",
-    "Kentucky Colonel"
+    "Kentucky Colonel (commissioned Nov. 14, 1980)",
+    "Kiwanis Legion of Honor, Kiwanis Club of Toledo (1977; 25 years)",
+    "Citation, Toledo Area Chamber of Commerce (1972; president 1970)",
+    "Citation for Services, American National Red Cross (1972 fund campaign)",
+    "Citation, University of Toledo Centennial Fund Campaign (1974)",
+    "Citation, Medical College of Ohio first capital fund campaign (1975)",
+    "Emeritus status, Kent State University Foundation Board of Directors (1997)"
   ],
   "sameAs": [
     "https://prabook.com/web/john_pritchard.williamson/1374888",
     "https://www.findagrave.com/memorial/224691877/john-pritchard-williamson",
-    "https://archive.org/details/john-p-williamson-1922-2014-biography"
+    "https://archive.org/details/john-p-williamson-1922-2014-biography",
+    "https://www.wikidata.org/wiki/Q141886535",
+    "https://www.wikitree.com/wiki/Williamson-25198",
+    "https://www.familysearch.org/en/tree/person/details/GZHT-2QP"
   ]
 }
